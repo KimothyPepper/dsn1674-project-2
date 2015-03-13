@@ -105,6 +105,9 @@ li {
   font-size:12px;
 }
 
+nav a:hover {
+  background-color:#453c3c;
+}
 
 
 

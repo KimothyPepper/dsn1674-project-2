@@ -12,13 +12,21 @@ header {
 
 }
 
+body {
+  margin:0;
+}
+
 li {
   color:white;
+  list-style-type:none;
 }
 
 .p2 {
   font-style:italic;
   margin:0;
+  padding:3em 1em 1em 1em;
+  text-align:center;
+  font-size:12px;
 }
 
 .banner{
@@ -78,6 +86,9 @@ h2 {
   width:50%;
 }
 
+.roostertitle{
+  color:white;
+}
 .roos{
   float:right;
   width:50%;
@@ -117,16 +128,32 @@ footer {
 
 }
 
-a {
+.footer {
   color:white;
+  font-size:12px;
 }
 
 .goattitle {
   color:white;
 }
 
-.p2gentle {
+.p3 {
   font-style:italic;
   color:white;
   margin:0;
+  padding:3em 1em 1em 1em;
+  text-align:center;
+  font-size:12px;
+}
+
+p {
+  font-size:15px;
+  margin:1em 1em 1em 1em;
+
+}
+
+a {
+  text-decoration:none;
+  color:white;
+
 }

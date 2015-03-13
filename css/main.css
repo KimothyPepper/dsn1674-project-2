@@ -9,6 +9,7 @@ html {
 header {
   background-color:#e7001d;
   text-align:center;
+  position:relative;
 
 }
 
@@ -16,6 +17,14 @@ header {
   color:white;
   font-size:30px;
   text-shadow: 0 2px 5px black;
+  position:absolute;
+  width:100%;
+  text-align:center;
+  bottom:50px;
+}
+
+.medallion{
+  position:relative;
 }
 
 h1 {
@@ -40,6 +49,10 @@ h3 {
   color:white;
   font-size:14px;
   text-shadow: 0 2px 5px black;
+  position:absolute;
+  width:100%;
+  text-align:center;
+  bottom:30px
 }
 
 body {

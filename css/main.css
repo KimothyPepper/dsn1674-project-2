@@ -1,0 +1,96 @@
+header {
+  background-color:#bc0017;
+  text-align:center;
+
+}
+
+.medallion{
+  width:50%;
+  color:black;
+
+}
+
+nav {
+  background-color:#222222;
+  padding:2em;
+  text-color:white;
+
+}
+
+h2 {
+  text-align:center;
+}
+
+.dragon {
+  background-color:#e4c22a;
+}
+
+.ds {
+  float:right;
+  width:50%;
+
+}
+
+.dra {
+  float:left;
+  width:50%;
+
+
+}
+
+.gs{
+  float:left;
+  width:50%;
+
+}
+
+.goa{
+  float:right;
+  width:50%;
+}
+
+.rs{
+  float:right;
+  width:50%;
+}
+
+.roos{
+  float:right;
+  width:50%;
+
+}
+
+.os{
+  float:right;
+  width:50%;
+}
+
+.oxx{
+  float:right;
+  width:50%;
+
+}
+
+.goat {
+  background-color:#222222;
+  text:white;
+  text-color:white;
+
+}
+
+.rooster {
+  background-color:#bc0017;
+}
+
+.ox {
+  background-color:#e4c22a;
+}
+
+footer {
+  background-color:#222222;
+  text:white;
+  padding:2em;
+  margin:0;
+  text-align:center;
+
+}

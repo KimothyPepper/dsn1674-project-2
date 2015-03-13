@@ -1,7 +1,28 @@
+html {
+	box-sizing: border-box;
+	font-family: 'Noto Sans', sans-serif;
+}
+
+*, *::before, *::after {
+	box-sizing:inherit;}
+
 header {
-  background-color:#bc0017;
+  background-color:#e7001d;
   text-align:center;
 
+}
+
+li {
+  color:white;
+}
+
+.p2 {
+  font-style:italic;
+  margin:0;
+}
+
+.banner{
+  width:100%;
 }
 
 .medallion{
@@ -19,38 +40,41 @@ nav {
 
 h2 {
   text-align:center;
+  margin:0;
+  padding: 1em 0em 1em 0em;
 }
 
 .dragon {
   background-color:#e4c22a;
+
 }
 
 .ds {
-  float:right;
+  float:left;
   width:50%;
 
 }
 
 .dra {
-  float:left;
+  float:right;
   width:50%;
 
 
 }
 
 .gs{
-  float:left;
+  float:right;
   width:50%;
 
 }
 
 .goa{
-  float:right;
+  float:left;
   width:50%;
 }
 
 .rs{
-  float:right;
+  float:left;
   width:50%;
 }
 
@@ -73,8 +97,7 @@ h2 {
 
 .goat {
   background-color:#222222;
-  text:white;
-  text-color:white;
+
 
 }
 
@@ -88,9 +111,22 @@ h2 {
 
 footer {
   background-color:#222222;
-  text:white;
   padding:2em;
   margin:0;
   text-align:center;
 
+}
+
+a {
+  color:white;
+}
+
+.goattitle {
+  color:white;
+}
+
+.p2gentle {
+  font-style:italic;
+  color:white;
+  margin:0;
 }

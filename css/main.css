@@ -12,9 +12,58 @@ header {
 
 }
 
+.headersymbol {
+  color:white;
+  font-size:30px;
+  text-shadow: 0 2px 5px black;
+}
+
+h1 {
+  text-shadow: 0 2px 5px black;
+  color:white;
+  font-style:italic;
+  position:absolute;
+  bottom:2px;
+  text-align:center;
+  width:100%;
+}
+.mainimage{
+  position:relative;
+}
+
+.banner{
+  width:100%;
+  position:relative;
+}
+
+h3 {
+  color:white;
+  font-size:14px;
+  text-shadow: 0 2px 5px black;
+}
+
 body {
   margin:0;
 }
+
+.Dragonnav{
+  float:left;
+  width:50%
+}
+
+.Goatnav{
+  float:right;
+  width:50%
+}
+.Roosternav{
+  float:left;
+  width:50%
+}
+
+.Oxnav{
+  float:right;
+  width:50%}
+
 
 li {
   color:white;
@@ -24,24 +73,23 @@ li {
 .p2 {
   font-style:italic;
   margin:0;
-  padding:3em 1em 1em 1em;
+  padding:3em 2em 2em 2em;
   text-align:center;
   font-size:12px;
 }
 
-.banner{
-  width:100%;
-}
+
 
 .medallion{
   width:50%;
   color:black;
 
+
 }
 
 nav {
   background-color:#222222;
-  padding:2em;
+  padding:3em;
   text-color:white;
 
 }
@@ -131,6 +179,7 @@ footer {
 .footer {
   color:white;
   font-size:12px;
+  text-decoration:underline;
 }
 
 .goattitle {
@@ -141,7 +190,7 @@ footer {
   font-style:italic;
   color:white;
   margin:0;
-  padding:3em 1em 1em 1em;
+  padding:3em 2em 2em 2em;
   text-align:center;
   font-size:12px;
 }

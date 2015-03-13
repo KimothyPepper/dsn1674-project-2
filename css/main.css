@@ -15,12 +15,13 @@ header {
 
 .headersymbol {
   color:white;
-  font-size:30px;
+  font-size:50px;
   text-shadow: 0 2px 5px black;
   position:absolute;
   width:100%;
   text-align:center;
-  bottom:50px;
+  bottom:70px;
+  margin:0;
 }
 
 .medallion{
@@ -35,6 +36,7 @@ h1 {
   bottom:2px;
   text-align:center;
   width:100%;
+
 }
 .mainimage{
   position:relative;
@@ -61,26 +63,37 @@ body {
 
 .Dragonnav{
   float:left;
-  width:50%
+  width:50%;
+  border: 1px solid black;
+  padding:0.5em 0.5em 0.5em 0.5em;
 }
 
 .Goatnav{
   float:right;
-  width:50%
+  width:50%;
+  border: 1px solid black;
+  padding:0.5em 0.5em 0.5em 0.5em;
+  text-style:bold;
 }
 .Roosternav{
   float:left;
-  width:50%
+  width:50%;
+  border: 1px solid black;
+  padding:0.5em 0.5em 0.5em 0.5em;
 }
 
 .Oxnav{
   float:right;
-  width:50%}
+  width:50%;
+  border: 1px solid black;
+  padding:0.5em 0.5em 0.5em 0.5em;
+  }
 
 
 li {
   color:white;
   list-style-type:none;
+
 }
 
 .p2 {
@@ -102,8 +115,9 @@ li {
 
 nav {
   background-color:#222222;
-  padding:3em;
+  padding:0em 0em 0em 0em;
   text-color:white;
+  overflow:hidden;
 
 }
 
